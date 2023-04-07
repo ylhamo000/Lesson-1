@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6eCUSFtu77T" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Yigah Brutalist Design in E-Learning #386</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Yigah_Brutalist_Design_in_E-Learning_#386_ORG">
+    <organization identifier="Yigah_Brutalist_Design_in_E-Learning_#386_ORG">
+      <title>Yigah Brutalist Design in E-Learning #386</title>
+      <item identifier="Brutal_SCO" isvisible="true" identifierref="__6eCUSFtu77T_RES">
+        <title>Brutalist Design in E-Learning #386</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6eCUSFtu77T_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6jkvBbtms0e.png" />
+      <file href="mobile/5v5moqMFYiR.jpg" />
+      <file href="mobile/5erQ2e8l5lJ.jpg" />
+      <file href="story_content/6pQRNJKqylv_44100_48_0.mp3" />
+      <file href="mobile/5XSdLwbOvOp.png" />
+      <file href="mobile/5XSdLwbOvOp_Y.png" />
+      <file href="story_content/video_6GByW8dATbw_22_48_168x160.mp4" />
+      <file href="mobile/poster_6Dt0ohqUw1U_video_6GByW8dATbw_22_48_168x160.jpg" />
+      <file href="mobile/poster_68aFI4vyX8G_video_6GByW8dATbw_22_48_168x160.jpg" />
+      <file href="mobile/5aoAmzMdkvN.png" />
+      <file href="mobile/poster_6n1G9WPblhC_video_6GByW8dATbw_22_48_168x160.jpg" />
+      <file href="mobile/poster_6TsqdEy3M5k_video_6GByW8dATbw_22_48_168x160.jpg" />
+      <file href="mobile/674F8YC2Pvk_P_-4_-363_1546_2048.png" />
+      <file href="mobile/5dMgAPT5NEP.png" />
+      <file href="mobile/5acaPR2gtEA.png" />
+      <file href="mobile/5WP2neWBLrm.png" />
+      <file href="story_content/video_6WwqBxEZbwJ_22_48_1280x720.mp4" />
+      <file href="mobile/poster_6m3hyu2C9xy_video_6WwqBxEZbwJ_22_48_1280x720.jpg" />
+      <file href="mobile/6Y3j86qkZDw.jpg" />
+      <file href="mobile/5rYdABarZkh_P_100_20_435_596.jpg" />
+      <file href="mobile/5gamyj2cGNm.jpg" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/5sznC1Afm09.png" />
+      <file href="mobile/65isDJKaNYi.png" />
+      <file href="story_content/video_5ZXbLxerark_22_48_1280x720.mp4" />
+      <file href="mobile/poster_5hx5P8hKRVS_video_5ZXbLxerark_22_48_1280x720.jpg" />
+      <file href="mobile/5djt4gqZKvw.jpg" />
+      <file href="mobile/5ZAczEc2hrw.png" />
+      <file href="mobile/6dELaPC0sxE.jpg" />
+      <file href="mobile/6Eo0i0lElZh.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5pgYCkLHgt3.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5c22XK4a2hM.js" />
+      <file href="html5/data/js/5usqhkbHeEs.js" />
+      <file href="html5/data/js/5x3mcuxA6MR.js" />
+      <file href="html5/data/js/5xNRCUfLtmu.js" />
+      <file href="html5/data/js/5ZIiM5sXvHs.js" />
+      <file href="html5/data/js/5zOSgVkbbnJ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
